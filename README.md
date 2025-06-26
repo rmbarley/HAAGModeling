@@ -4,9 +4,6 @@
 # HAAGModeling
 
 <!-- badges: start -->
-
-[![Codecov test
-coverage](https://codecov.io/gh/HAAGEcoModeling/HAAG_Modeling/graph/badge.svg)](https://app.codecov.io/gh/HAAGEcoModeling/HAAG_Modeling)
 [![Codecov test
 coverage](https://codecov.io/gh/rmbarley/HAAGModeling/graph/badge.svg)](https://app.codecov.io/gh/rmbarley/HAAGModeling)
 <!-- badges: end -->
