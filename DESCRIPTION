@@ -14,3 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Depends: R (>= 4.1.0)
 LazyData: true
+URL: https://github.com/rmbarley/HAAGModeling
+BugReports: https://github.com/rmbarley/HAAGModeling/issues
